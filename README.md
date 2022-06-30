@@ -1,4 +1,4 @@
 # ChatVue.js-
 Chat Vue.js without database 
 
-![alt text](ChatVue.js-/screen.jpg "Пример работы программы")
+![alt text](ChatVue.js-/image.png "Пример работы программы")
